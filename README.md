@@ -1,6 +1,6 @@
-# Texile's IPFS ĐApp Template
+# Basic Chat Dapp
 
-> Basic template for building simple IPFS-based browser ĐApps
+> Basic Chat App using IPFS Blockchain based Technology.
 
 ## Install
 

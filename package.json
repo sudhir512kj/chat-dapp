@@ -1,7 +1,7 @@
 {
-  "name": "dapp-template",
+  "name": "chat-dapp",
   "version": "1.0.0",
-  "description": "Basic template for building simple IPFS-based browser ĐApps",
+  "description": "This is a basic chat app using IPFS blockchain based technology",
   "main": "dist/index.html",
   "scripts": {
     "start": "ecstatic dist",
@@ -33,7 +33,7 @@
       ]
     ]
   },
-  "author": "Carson Farmer <carson@textile.io>",
+  "author": "Sudhir Meena",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.3",
@@ -51,12 +51,14 @@
     "watchify": "^3.11.0"
   },
   "dependencies": {
-    "queue": "^4.4.2",
-    "window.ipfs-fallback": "^1.0.0"
+    "ipfs": "^0.33.1",
+    "ipfs-pubsub-room": "^1.4.0",
+    "knockout": "^3.4.2",
+    "query-string": "^6.2.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/textileio/dapp-template.git"
+    "url": "git+https://github.com/sudhir512kj/chat-dapp.git"
   },
   "keywords": [
     "ipfs",
@@ -66,7 +68,7 @@
     "distributed"
   ],
   "bugs": {
-    "url": "https://github.com/textileio/dapp-template/issues"
+    "url": "https://github.com/sudhir512kj/chat-dapp/issues"
   },
-  "homepage": "https://github.com/textileio/dapp-template#readme"
+  "homepage": "https://github.com/sudhir512kj/chat-dapp#readme"
 }
