@@ -41,7 +41,7 @@
     "babel-preset-env": "^1.7.0",
     "babelify": "^8.0.0",
     "browserify": "^16.1.0",
-    "ecstatic": "^3.2.0",
+    "ecstatic": "^4.1.4",
     "envify": "^4.1.0",
     "nodemon": "^1.18.3",
     "npm-run-all": "^4.1.2",
